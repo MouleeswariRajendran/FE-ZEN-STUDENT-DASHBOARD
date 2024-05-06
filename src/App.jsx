@@ -3,7 +3,7 @@ import React, { useContext } from 'react';
 
 //components
 import Header from './components/Header/Header';
-import Navbar from './components/navbar/Navbar';
+import Navbar from './components/Navbar/Navbar';
 import { Route, Routes } from 'react-router-dom';
 import Portfolio from './components/Portfolio/Portfolio';
 import Webcode from './components/webcode/Webcode';
